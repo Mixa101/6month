@@ -1,0 +1,19 @@
+{
+    "background.fullscreen": {
+
+        "useFront": true,
+        "style": {
+            "opacity": 0.4
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///home/islam/Downloads/iron-man.jpg"],
+        "interval": 0,
+        "size": "cover",
+        "position": "center",
+        "random": false
+    }
+}
